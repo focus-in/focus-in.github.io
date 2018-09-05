@@ -1,2 +1,2 @@
-# focus-in.github.io
-focus in portfolio
+# focus-io.github.io
+focus io portfolio
